@@ -1,0 +1,17 @@
+
+.home-page {
+    padding: 20px;
+    text-align: center;
+    background-color: #f0f0f0;
+  }
+  
+  .home-page h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .home-page p {
+    font-size: 18px;
+    color: #666;
+  }
+  

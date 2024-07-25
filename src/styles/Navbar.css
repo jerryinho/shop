@@ -1,0 +1,38 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+  }
+  
+  .navbar a:hover {
+    background-color: #575757;
+    border-radius: 4px;
+  }
+  
+  .cart-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .cart-info a {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+  }
+  
+  .cart-info span {
+    margin-left: 8px;
+    font-weight: bold;
+  }
+  
